@@ -1,0 +1,23 @@
+
+ 
+
+
+.navbar{
+    position: absolute;
+    margin:9px;
+    height: 5px;
+    width:5px;
+}
+.payment{
+    margin-left: 380px;
+}
+form{
+    position:absolute;
+    margin-top: 3px;
+    margin-left:1200px;
+    width:65px;
+    color:black
+}
+.itemic{
+    margin-top:25px;
+}
